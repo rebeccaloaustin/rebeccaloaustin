@@ -5,7 +5,7 @@
 My name is Rebecca Austin. I am a people-driven full stack software engineer with a passion for executing solutions that prioritize users. With my psychology degree and certificate in Full Stack Web Development from General Assembly's Coding Bootcamp, I take pride in creating products that are intuitive, user friendly, and clean in their design. In my previous career in customer experience in the hospitality industry, I refined my expertise in providing efficient and memorable customer service. I am naturally very creative, a fast learner, and I care about the quality of job that I do-whether I am building a website, debugging an app, or serving you your favorite meal, I will always strive to provide the best experience imaginable. Growing up in a large family of 15 children, I've become a master in working with others in problem solving, finding solutions, and effectively communicating those solutions.
 
 * 🌍  I'm based in Savannah, Georgia
-* 🖥️  [View my portfolio here!]([https://rebeccaloaustin.netlify.app/)
+* 🖥️  [View my portfolio here!](https://rebeccaloaustin.netlify.app/)
 * ✉️  You can contact me at rebeccaloaustin@gmail.com
 
 ## Skills
