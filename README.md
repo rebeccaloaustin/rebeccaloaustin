@@ -6,7 +6,7 @@ My name is Rebecca Austin. I am a people-driven full stack software engineer wit
 
 * 🌍  I'm based in Savannah, Georgia
 * 🖥️  [View my portfolio here!](https://rebeccaloaustin.netlify.app/)
-* ✉️  You can contact me at rebeccaloaustin@gmail.com
+* ✉️  You can contact with me at rebeccaloaustin@gmail.com
 
 ## Skills
 <div>
